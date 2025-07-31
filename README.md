@@ -5,7 +5,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** for **Blinkit**
 ---
 ## Final_Dashboard
 
-<a href = "https://Dashboard_png/Final_Dashboard.png">View Dashboard</a>
+<a href = "https://github.com/abhikanand31/Blinkit_Sales_Analysis/blob/main/Dashboard_png/Final_Dashboard.png">View Dashboard</a>
 
 ## Project Overview
 
