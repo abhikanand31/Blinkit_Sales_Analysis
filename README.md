@@ -3,6 +3,9 @@
 This project presents an end-to-end **Sales Analysis Dashboard** for **Blinkit**, built using **SQL** and **Power BI**. It focuses on identifying key performance insights from sales, customer satisfaction, and inventory data to help drive business decisions.
 
 ---
+## Final_Dashboard
+
+Dashboard_png/Final_Dashboard.png
 
 ## Project Overview
 
