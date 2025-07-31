@@ -67,7 +67,7 @@ The goal of this project is to perform a comprehensive data analysis of Blinkitâ
 ## ðŸ“¬ Contact
 
 **Abhishek Anand**  
-[LinkedIn Profile](https://www.linkedin.com/in/your-link)
+[LinkedIn Profile](https://www.linkedin.com/in/abhishek-anand-537147225)
 
 ---
 
