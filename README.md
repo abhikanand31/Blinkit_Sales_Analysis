@@ -81,5 +81,7 @@ The goal of this project is to perform a comprehensive data analysis of Blinkitâ
 
 Thanks to the open datasets and the Blinkit concept used for academic/portfolio purpose only. This is not an official Blinkit dataset or analysis.
 
+Show what the Dashboard looks like :
+
 ![Dashboard](https://github.com/abhikanand31/Blinkit_Sales_Analysis/blob/main/Dashboard_png/Final_Dashboard.png)
 
