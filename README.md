@@ -5,7 +5,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** for **Blinkit**
 ---
 ## Final_Dashboard
 
-Dashboard_png/Final_Dashboard.png
+<a href = "http/Dashboard_png/Final_Dashboard.png">View Dashboard</a>
 
 ## Project Overview
 
